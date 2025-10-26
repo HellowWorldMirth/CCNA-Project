@@ -1,4 +1,4 @@
-# CCNA Project
+# CCNA Project(Static Routing)
 
 ## Objective
 [Brief Objective - Remove this afterwards]
