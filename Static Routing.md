@@ -76,3 +76,34 @@ ip route 192.168.1.0 255.255.255.0 192.168.3.1
 For Delhi Branch :
 ip route 192.168.2.0 255.255.255.0 192.168.3.2
 <img width="298" height="41" alt="image" src="https://github.com/user-attachments/assets/7a1894de-4d89-421f-9176-4621fc7c7cb0" />
+
+For Mumbai HQ :
+Show ip int br
+
+<img width="640" height="116" alt="image" src="https://github.com/user-attachments/assets/063417e4-ce66-43e3-9c76-1a61d4133cdc" />
+
+Show ip route
+
+<img width="641" height="229" alt="image" src="https://github.com/user-attachments/assets/935937e5-58c5-46aa-a8de-e532cfa1abc6" />
+
+For Delhi Branch :
+Show ip int br
+
+<img width="640" height="106" alt="image" src="https://github.com/user-attachments/assets/40b113a0-4799-4b0c-b1c9-de9e40cc2c30" />
+
+Show ip routh
+
+<img width="641" height="232" alt="image" src="https://github.com/user-attachments/assets/6d7aab89-c3b2-4046-b709-17cc0cc03612" />
+
+
+
+Step 5
+- Ping Host to destination :
+
+  *Ref 4.1: Mumbai to Delhi (192.168.2.2 to 192.168.1.3)*
+
+  <img width="580" height="572" alt="image" src="https://github.com/user-attachments/assets/d5ac724c-c36a-4cc8-8f1a-636c9693d68f" />
+
+  *Ref 4.2: Delhi to Mumbai (192.168.1.3 to 192.168.2.2)*
+
+  <img width="583" height="584" alt="image" src="https://github.com/user-attachments/assets/2d01018b-f566-41a6-a383-3fe8f3446f99" />
