@@ -8,6 +8,9 @@
 
 - Understand the Concept of Static Routing.
 - Configure and Apply Static Routing in Network Design or Diagram.
+- Manual Network Configuration.
+- Traffic Path Control.
+- Backup Route Configuration.
 - Troubleshoot Static Route Configuration.
 
 ### Tools Used
