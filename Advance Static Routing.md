@@ -6,7 +6,9 @@
 
 ### Skills Learned
 
-
+- Understand the Concept of Static Routing.
+- Configure and Apply Static Routing in Network Design or Diagram.
+- Troubleshoot Static Route Configuration.
 
 ### Tools Used
 - I use VMware Workstation to run EVE-NG as an emulator for constructing and testing a Cisco lab environment.
@@ -90,3 +92,16 @@ for Chennai:
 
 Step 5
 - Ping Host to destination :
+
+From Delhi (VPC7 192.168.1.2) to Mumbai (VPC10 192.168.3.2) and Chennai (VPC 12 192.168.2.2)
+
+<img width="659" height="419" alt="image" src="https://github.com/user-attachments/assets/51dec62a-0bdf-4e13-95d6-319a73df1c28" />
+
+From Mumbai (VPC9 192.168.3.3) to Delhi (VPC8 192.168.1.3) and Chennai (VPC11 192.168.2.3)
+
+<img width="659" height="416" alt="image" src="https://github.com/user-attachments/assets/19eb2c30-f006-4f74-8bc8-30a68f8f690c" />
+
+From Chennai (VPC11 192.168.2.3) to Delhi (VPC8 192.168.1.3) and Mumbai (VPC10 192.168.3.2)
+
+<img width="661" height="418" alt="image" src="https://github.com/user-attachments/assets/18500c08-505c-4f6e-ad53-a8f56aab5f24" />
+
